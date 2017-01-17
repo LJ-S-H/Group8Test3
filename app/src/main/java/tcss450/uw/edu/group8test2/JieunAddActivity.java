@@ -5,6 +5,10 @@ import android.os.Bundle;
 
 public class JieunAddActivity extends AppCompatActivity {
 
+    /**
+     * Comment to check if git works.
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
